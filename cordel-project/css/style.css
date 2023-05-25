@@ -5,7 +5,7 @@
 
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
-    --fonte2: #font-family: 'Passion One', cursive;;
+    --fonte2: font-family: 'Passion One', cursive;
     --fonte3: font-family: 'Sriracha', cursive;
 }
 
@@ -70,6 +70,7 @@ section.imagem {
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
     background-size: cover;
+    background-attachment: fixed;
 }
 
 section.imagem > p {
@@ -80,12 +81,12 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('images/background001.jpg');
+    background-image: url('../images/background001.jpg');
     background-position: right center;
 }
 
 section#img02 {
-    background-image: url('images/background002.jpg');
+    background-image: url('../images/background002.jpg');
 }
 
 footer {
