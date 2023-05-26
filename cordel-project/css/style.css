@@ -95,3 +95,21 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+footer > p > a {
+    text-decoration: none;
+    font-family: var(--fonte1);
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    color: white;
+  }
+
+  footer > p > a:hover {
+    text-decoration: underline;
+    font-family: var(--fonte1);
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    color: white;
+  }
