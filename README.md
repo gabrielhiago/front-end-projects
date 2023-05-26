@@ -3,7 +3,7 @@ Projetos de sites desenvolvidos utilizando HTML | CSS | JS e outras tecnologias 
 
 1. Projeto de Site sobre a história do Android <a href="https://gabriel-hiago95.github.io/front-end-projects/android-project/">Ver projeto</a>-->
 
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <html lang="pt-br">
 <html>
 <head>
@@ -30,7 +30,7 @@ Projetos de sites desenvolvidos utilizando HTML | CSS | JS e outras tecnologias 
         font-weight: 300;
         margin: 0px;
         padding: 0px;
-        background-color: rgb(228, 228, 228);
+        background-color: rgb(196, 196, 196);
         color: black;
       }
 
